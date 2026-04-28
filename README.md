@@ -2,7 +2,7 @@
 
 This project focuses on building an **Agent Performance Dashboard** for an IT support environment using **Power BI**.
 
-![Dashboard](Agents_Dashboard.png)
+![Dashboard](Agents.png)
 ---
 
 ## 📑 Table of Contents
